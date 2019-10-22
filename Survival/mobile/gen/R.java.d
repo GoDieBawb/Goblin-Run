@@ -1,0 +1,21 @@
+C:\Users\Bob\Documents\Survival\mobile\gen\com\bigbawb\goblinrun\R.java \
+ : C:\Users\Bob\Documents\Survival\mobile\res\drawable-hdpi\icon.png \
+C:\Users\Bob\Documents\Survival\mobile\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Bob\Documents\Survival\mobile\res\drawable-ldpi\icon.png \
+C:\Users\Bob\Documents\Survival\mobile\res\drawable-ldpi\ic_launcher.png \
+C:\Users\Bob\Documents\Survival\mobile\res\drawable-mdpi\icon.png \
+C:\Users\Bob\Documents\Survival\mobile\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Bob\Documents\Survival\mobile\res\drawable-xhdpi\icon.png \
+C:\Users\Bob\Documents\Survival\mobile\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Bob\Documents\Survival\mobile\res\layout\main.xml \
+C:\Users\Bob\Documents\Survival\mobile\res\values\Integers.xml \
+C:\Users\Bob\Documents\Survival\mobile\res\values\strings.xml \
+C:\Users\Bob\Documents\Survival\mobile\bin\res\drawable-hdpi\icon.png \
+C:\Users\Bob\Documents\Survival\mobile\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Bob\Documents\Survival\mobile\bin\res\drawable-ldpi\icon.png \
+C:\Users\Bob\Documents\Survival\mobile\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\Bob\Documents\Survival\mobile\bin\res\drawable-mdpi\icon.png \
+C:\Users\Bob\Documents\Survival\mobile\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Bob\Documents\Survival\mobile\bin\res\drawable-xhdpi\icon.png \
+C:\Users\Bob\Documents\Survival\mobile\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Bob\Documents\Survival\mobile\bin\AndroidManifest.xml \
